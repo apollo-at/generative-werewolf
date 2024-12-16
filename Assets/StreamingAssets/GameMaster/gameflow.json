@@ -1,0 +1,9 @@
+{
+    "start-round": "Welcome to the social deduction game Werewolf!", 
+    "start-day": "The village awakens.", 
+    "start-night": "The village falls asleep.", 
+    "announce-death": "We lost player {0} tonight!",
+    "announce-win-village": "Game Over! The village wins!",
+    "announce-win-werewolves": "Game Over! The werewolves win!",
+    "end-round": "Thank you for playing!"
+}

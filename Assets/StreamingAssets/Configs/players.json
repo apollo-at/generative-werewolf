@@ -1,0 +1,77 @@
+{
+  "player_configs": {
+    "4": {
+      "roles": ["werewolf", "seer", "villager", "villager"]
+    },
+    "5": {
+      "roles": ["werewolf", "seer", "villager", "villager", "villager"]
+    },
+    "6": {
+      "roles": ["werewolf", "werewolf", "seer", "witch", "villager", "villager"]
+    },
+    "7": {
+      "roles": [
+        "werewolf",
+        "werewolf",
+        "seer",
+        "witch",
+        "villager",
+        "villager",
+        "villager"
+      ]
+    },
+    "8": {
+      "roles": [
+        "werewolf",
+        "werewolf",
+        "seer",
+        "witch",
+        "villager",
+        "villager",
+        "villager",
+        "villager"
+      ]
+    },
+    "9": {
+      "roles": [
+        "werewolf",
+        "werewolf",
+        "seer",
+        "witch",
+        "villager",
+        "villager",
+        "villager",
+        "villager",
+        "villager"
+      ]
+    },
+    "10": {
+      "roles": [
+        "werewolf",
+        "werewolf",
+        "werewolf",
+        "seer",
+        "seer",
+        "witch",
+        "villager",
+        "villager",
+        "villager",
+        "villager"
+      ]
+    }
+  },
+  "player_names": [
+    "Alex",
+    "Bea",
+    "Charlie",
+    "Dennis",
+    "Eva",
+    "Frank",
+    "Gina",
+    "Hank",
+    "Ivy",
+    "Jack"
+  ],
+  "context_length": 2048,
+  "token_factor": 3
+}

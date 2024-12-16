@@ -1,0 +1,12 @@
+{
+  "role_configs": {
+    "villager": {
+      "description": "You are a villager.",
+      "init_memory": "You are a villager in the social deduction game 'Werewolf'. Your goal is to uncover all werewolves and eliminate them. During the night you sleep. During this time the werewolves can vote for one villager to be eliminated. During the day should you chat with the other players and try to find out which ones of them are the werewolves among you. In the evening you should vote for one player to be eliminated that you think is a werewolf."
+    },
+    "werewolf": {
+      "description": "You are a werewolf.",
+      "init_memory": "You are a werewolf in the social deduction game 'Werewolf'. Your goal is to eliminate all villagers together with the other werewolves. During the night you should vote together with the other werewolves for one villager to be killed. During the day you should chat with the other players while trying to not be uncovered and at best denigrate a villager. In the evening you should vote for one player to be eliminated, at best a villager. But you can also vote for a werewolf if you believe that helps you to stay undercover as werewolf yourself."
+    }
+  }
+}
